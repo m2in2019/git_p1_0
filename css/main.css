@@ -1,13 +1,13 @@
 body, *{
   margin: 0;
   padding: 0;
-  background-color: rgb(151, 66, 66);
+  background-color: rgba(36, 99, 172, 0.822);
 }
 
 h2{
-  font-size: 1.5rem;
+  font-size: 1.4rem;
 }
 
 p{
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
