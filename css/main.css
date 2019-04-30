@@ -3,7 +3,7 @@ body, *{
   padding: 0;
   background-color: rgba(36, 99, 172, 0.822);
 }
-
+/* запись коментариев */
 h2{
   font-size: 1.4rem;
 }
